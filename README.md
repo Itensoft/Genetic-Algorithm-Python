@@ -1,7 +1,8 @@
 # Implementation of a genetic algorithm in python
 
 ## Problem description: 
-Implement an optimization algorithm that finds and prints the following sentence: 
+Implement an optimization algorithm that finds and prints the following sentence:
+ 
 *"Individuals and interactions over processes and tools"*
 
 ## Execution
@@ -24,3 +25,4 @@ When the program is executed, it is requested to enter the following information
 
 ## Result
 
+![Resultado de ejecución](https://github.com/Itensoft/Genetic-Algorithm-Python/blob/master/result_execution.jpg)
