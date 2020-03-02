@@ -6,7 +6,7 @@ Implement an optimization algorithm that finds and prints the following sentence
 
 ## Execution
 
-    $> python App.py
+    $> python Application.py
 
 ## Program Input Values
 
@@ -24,4 +24,3 @@ When the program is executed, it is requested to enter the following information
 
 ## Result
 
-## Problem Result
